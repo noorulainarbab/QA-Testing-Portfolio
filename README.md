@@ -2,17 +2,7 @@
 
 Welcome to my Manual QA Testing Portfolio.
 
-This repository contains my manual software testing projects, including complete QA documentation and testing evidence.
-
----
-
-## 📂 Projects
-
-| Project | Status |
-|---------|--------|
-| SauceDemo Manual Testing | ✅ Completed |
-| OrangeHRM Manual Testing | ⏳ Coming Soon |
-| OpenCart Manual Testing | ⏳ Coming Soon |
+This repository contains my manual software testing documentation, including complete QA artifacts and testing evidence.
 
 ---
 
